@@ -1,4 +1,4 @@
-package com.itacademy.java.oop.basics;
+package com.itacademy.java.oop.basics.task_1;
 
 public class EmployeeManager {
     public static void main(String[] args) {

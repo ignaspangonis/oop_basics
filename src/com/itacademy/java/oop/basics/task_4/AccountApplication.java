@@ -1,4 +1,4 @@
-package com.itacademy.java.oop.basics4;
+package com.itacademy.java.oop.basics.task_4;
 
 public class AccountApplication {
     public static void main(String[] args) {

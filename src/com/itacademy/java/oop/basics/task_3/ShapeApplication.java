@@ -1,4 +1,4 @@
-package com.itacademy.java.oop.basics3;
+package com.itacademy.java.oop.basics.task_3;
 
 public class ShapeApplication {
     public static void main(String[] args) {

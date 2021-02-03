@@ -1,4 +1,4 @@
-package com.itacademy.java.oop.basics;
+package com.itacademy.java.oop.basics.task_1;
 
 public enum ContractType {
     FULL_TIME("Full-time"), PART_TIME("Part-time");

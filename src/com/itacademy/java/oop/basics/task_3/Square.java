@@ -1,4 +1,4 @@
-package com.itacademy.java.oop.basics3;
+package com.itacademy.java.oop.basics.task_3;
 
 public class Square {
     private double length;

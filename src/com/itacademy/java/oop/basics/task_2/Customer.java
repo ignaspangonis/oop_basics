@@ -1,4 +1,4 @@
-package com.itacademy.java.oop.basics2;
+package com.itacademy.java.oop.basics.task_2;
 
 import java.util.Arrays;
 
