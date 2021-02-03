@@ -25,7 +25,7 @@ public class Account {
         return name;
     }
 
-    public int getBalanuce() {
+    public int getBalance() {
         return balance;
     }
 
